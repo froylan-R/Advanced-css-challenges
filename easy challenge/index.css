@@ -1,0 +1,26 @@
+
+
+.flag {
+    width: 40%;
+    height: 300px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px
+}
+
+.stars{
+    background-image: url("https://canvas.instructure.com/courses/2342545/files/113188044/download?download_frd=1");
+    width: 50%;
+    height: 175px;
+    background-size: cover;
+    position: relative;
+}
+
+.red {
+    background-color: red;
+}
+
+.white {
+    background-color: white;
+}
